@@ -1,0 +1,15 @@
+/* Write your code here. */
+.thumb-image {
+  
+  opacity: 0.5;
+}
+
+.active-thumb-image {
+  opacity: 1;
+}
+
+.thumb-button {
+  background-color: transparent;
+  border: none;
+  margin-right: 20px;
+}
